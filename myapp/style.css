@@ -1,0 +1,18 @@
+#table {
+   
+    background-color:black;
+    width: fit-content; /* Full-width */
+
+  }
+  
+  th{
+    background-color: rgb(2, 97, 2);
+    padding: 15px; /* Add padding */
+    margin : 15px;
+  }
+  
+  td { 
+    background-color:white;
+    padding: 15px; /* Add padding */
+    margin : 10px;
+  }

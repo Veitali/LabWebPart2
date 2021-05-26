@@ -1,0 +1,29 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "Lab1",
+  "main": "main.js",
+  "scripts": {
+    "lint": "eslint lib/train.js",
+    "lint:fix": "eslint lib/soldTicket.js --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sviatoslavboiko/WebLabs.git"
+  },
+  "author": "Sviatoslav Boiko",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/sviatoslavboiko/WebLabs/issues"
+  },
+  "homepage": "https://github.com/sviatoslavboiko/WebLabs#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
